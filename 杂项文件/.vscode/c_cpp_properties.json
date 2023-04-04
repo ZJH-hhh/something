@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/应用/vscode/MInGw/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+                "D:/应用/vscode/MInGw/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+                "D:/应用/vscode/MInGw/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/ssp"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "compilerPath": "D:/应用/vscode/MInGw/mingw64/bin/g++.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}

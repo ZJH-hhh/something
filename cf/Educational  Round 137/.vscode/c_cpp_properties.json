@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${default}",
+                "D:/应用/vscode/MInGw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+ "D:/应用/vscode/MInGw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+ "D:/应用/vscode/MInGw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+ "D:/应用/vscode/MInGw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+ "D:/应用/vscode/MInGw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+ "D:/应用/vscode/MInGw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}

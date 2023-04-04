@@ -1,0 +1,2 @@
+import ipykernel
+ipykeynel.__version__

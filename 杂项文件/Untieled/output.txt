@@ -1,0 +1,4 @@
+p=1 l=12 r=0 res=12 res=13
+p=10 l=1 r=3 res=23 res=33
+p=100 l=0 r=23 res=33 res=57
+57 

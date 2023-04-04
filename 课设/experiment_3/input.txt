@@ -1,0 +1,4 @@
+2
+sno
+sname
+student  
